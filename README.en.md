@@ -170,3 +170,9 @@ io.interactive()                # drop into the shell
 - **Follow the cross-links**: the "further reading" section at the end of each chapter forms a web; e.g. Chapter 08's GOT overwrite for libc leaking leads right back to Chapter 05.
 - **Treat Chapter 99 as a dictionary**: when stuck in IDA, check the prototype (parameter count/meanings) first, the danger level column for audit direction, then the syscall table for the exploit.
 - **Heap challenges are version-sensitive**: every play in Chapter 10 lists its glibc version constraints; run `strings libc.so.6 | grep "GNU C Library"` first to identify the version.
+
+---
+
+## 8. License
+
+Released under the [MIT License](./LICENSE): you are free to read, republish, translate, modify, and redistribute this material (commercial use included), as long as the original copyright notice and license text are preserved in your copies.
