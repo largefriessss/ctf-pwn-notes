@@ -2,6 +2,12 @@
 
 简体中文 | [English](./README.en.md)
 
+[![Stars](https://img.shields.io/github/stars/largefriessss/ctf-pwn-notes?style=flat-square)](https://github.com/largefriessss/ctf-pwn-notes/stargazers)
+[![License](https://img.shields.io/github/license/largefriessss/ctf-pwn-notes?style=flat-square)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/largefriessss/ctf-pwn-notes?style=flat-square)](https://github.com/largefriessss/ctf-pwn-notes/commits/main)
+[![内容](https://img.shields.io/badge/内容-13章_%C2%B7_2万行-2f81f7?style=flat-square)](./README.md)
+[![English](https://img.shields.io/badge/README-English_%7C_中文-8957e5?style=flat-square)](./README.en.md)
+
 > 一套从零基础到进阶的 CTF PWN 系统化资料，采用**总分结构**：本 README 是"总"（知识地图 + 学习路线 + 题型决策表），其余 13 个分册是"分"（每个题型/主题一章，每章自成体系，含原理、模板、例题、变体、坑与检查清单）。
 >
 > 全部内容为 Markdown，所有 exp 模板基于 **pwntools (Python3)**，覆盖 **32 位与 64 位**两种架构。

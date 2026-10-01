@@ -2,6 +2,12 @@
 
 [简体中文](./README.md) | English
 
+[![Stars](https://img.shields.io/github/stars/largefriessss/ctf-pwn-notes?style=flat-square)](https://github.com/largefriessss/ctf-pwn-notes/stargazers)
+[![License](https://img.shields.io/github/license/largefriessss/ctf-pwn-notes?style=flat-square)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/largefriessss/ctf-pwn-notes?style=flat-square)](https://github.com/largefriessss/ctf-pwn-notes/commits/main)
+[![Content](https://img.shields.io/badge/Content-13_chapters_%C2%B7_20k%2B_lines-2f81f7?style=flat-square)](./README.md)
+[![中文](https://img.shields.io/badge/README-%E4%B8%AD%E6%96%87_%7C_English-8957e5?style=flat-square)](./README.md)
+
 > A systematic CTF PWN study collection from beginner to advanced, organized in a **general-to-specific structure**: this README is the "general" part (knowledge map + learning path + technique decision table), and the 13 chapters are the "specific" parts — one chapter per technique/topic, each self-contained with theory, exploit templates, worked examples, variants, pitfalls, and checklists.
 >
 > Everything is Markdown. All exploit templates are based on **pwntools (Python3)** and cover both **32-bit and 64-bit** architectures. The chapters are written in Chinese; this page is the English guide to what each file covers.
